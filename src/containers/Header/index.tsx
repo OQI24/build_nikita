@@ -6,10 +6,10 @@ type Props = {
     props?: any;
 };
 
-const MainPage: React.FC<Props> = ({props}) => {
+const Header: React.FC<Props> = ({props}) => {
     return (
-        <div className={style.MainPage}> </div>
+        <div className={style.Header}> </div>
     );
 };
 
-export default MainPage;
+export default Header;
