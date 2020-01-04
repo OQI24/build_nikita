@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71a8414a-4455-4649-8e12-96ab896c65c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/GalleryObjects/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/GalleryObjects/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MainOffer/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MainOffer/sgyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Object/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Object/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/ContactPage/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/ContactPage/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Objects/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Objects/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Header/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Header/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Header/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/MainPage/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/MainPage/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/MainPage/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/MainPage/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>route</find>
+      <find>tsconfig</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/build_nikita.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VuZVP2tFlMLNbgxJJwpC8rfbLR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/eslint-config-airbnb/rules" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Users\sukhachev\Documents\Projects\build_nikita\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sukhachev\Documents\Projects\build_nikita\src" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71a8414a-4455-4649-8e12-96ab896c65c4" name="Default Changelist" comment="" />
+      <created>1578087732834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578087732834</updated>
+      <workItem from="1578087734307" duration="16145000" />
+      <workItem from="1578104774566" duration="91000" />
+      <workItem from="1578104977873" duration="424000" />
+      <workItem from="1578105429035" duration="13178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#ESLint" timestamp="1578105076655">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#ESLint/0.0.1366.728@0.0.1366.728" timestamp="1578105076655" />
+    <state x="275" y="23" key="#Notifications" timestamp="1578105007550">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1578105007550" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1578105402627">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578105402627" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1578114337405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1578114337405" />
+  </component>
+</project>

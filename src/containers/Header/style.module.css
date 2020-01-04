@@ -1,0 +1,27 @@
+.Header {
+    display: block;
+    width: 100%;
+    height: 100px;
+    background-color: #243238;
+    /*position: fixed;*/
+    /*z-index: 100;*/
+}
+.logo{
+    padding: 20px;
+    width: 60px;
+    float: left;
+}
+.links{
+    margin-left: 10%;
+    margin-top: 35px;
+    float: left;
+    min-width: 400px;
+    width: 30%;
+}
+.links a {
+    display: inline-block;
+    float: left;
+    margin-left: 35px;
+    text-decoration: none;
+    color: lightblue;
+}
