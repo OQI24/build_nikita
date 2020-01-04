@@ -1,6 +1,8 @@
 import * as React from 'react';
+import MainOffer from "../../components/MainOffer";
+import GalleryObjects from "../../components/GalleryObjects";
 
-const style = require('./style.css');
+const style = require('./style.module.css');
 
 type Props = {
     props?: any;
@@ -8,7 +10,10 @@ type Props = {
 
 const MainPage: React.FC<Props> = ({props}) => {
     return (
-        <div className={style.MainPage}> </div>
+        <div className={style.MainPage}>
+            <MainOffer/>
+            <GalleryObjects/>
+        </div>
     );
 };
 
