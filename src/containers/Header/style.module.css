@@ -3,7 +3,7 @@
     width: 100%;
     height: 100px;
     background-color: #243238;
-    user-select: none;
+    /*user-select: none;*/
     /*position: fixed;*/
     /*z-index: 100;*/
 }
