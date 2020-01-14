@@ -1,39 +1,26 @@
 import * as React from 'react';
 import SingleObject from "../Object";
+import {Objects} from "../../Utils";
+import 'rc-pagination/assets/index.css';
+import Pagination from 'rc-pagination';
+import {useState} from "react";
 
 const style = require('./style.module.css');
 
 type Props = {
     props?: any;
+    tottalCount: number;
 };
 
-const GalleryObjects: React.FC<Props> = ({props}) => {
+const GalleryObjects: React.FC<Props> = ({props, tottalCount}) => {
 
-    const Objects = [
-        {
-            tittle: '1 комнатная квартира',
-            subTittle: null,
-            address: 'Жулебино',
-            note: 'Светлая, ухоженная квартира от собственника. Пешая доступность, 12мин от метро.'
-        },
-        {
-            tittle: '1 комнатная квартира',
-            subTittle: null,
-            address: 'Жулебино',
-            note: 'Светлая, ухоженная квартира от собственника. Пешая доступность, 12мин от метро.'
-        },
-        {
-            tittle: '1 комнатная квартира',
-            subTittle: null,
-            address: 'Жулебино',
-            note: 'Светлая, ухоженная квартира от собственника. Пешая доступность, 12мин от метро.'
-        },
+    const [current, setCurrent] = useState(1);
 
-    ];
+    const objArray = Objects(tottalCount);
 
     return (
         <div className={style.GalleryObjects}>
-            {Objects.map((e)=> {
+            {Objects(tottalCount).map((e)=> {
                 return(
                 <SingleObject
                     tittle={e.tittle}

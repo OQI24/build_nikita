@@ -12,7 +12,7 @@ const MainPage: React.FC<Props> = ({props}) => {
     return (
         <div className={style.MainPage}>
             <MainOffer/>
-            <GalleryObjects/>
+            <GalleryObjects tottalCount={3}/>
         </div>
     );
 };

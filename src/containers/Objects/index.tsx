@@ -1,4 +1,5 @@
 import * as React from 'react';
+import GalleryObjects from "../../components/GalleryObjects";
 
 const style = require('./style.module.css');
 
@@ -8,7 +9,9 @@ type Props = {
 
 const Objects: React.FC<Props> = ({props}) => {
     return (
-        <div className={style.Objects}> </div>
+        <div className={style.Objects}>
+            <GalleryObjects tottalCount={12}/>
+        </div>
     );
 };
 

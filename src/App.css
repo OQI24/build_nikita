@@ -25,12 +25,12 @@
 
 .app-wrapper {
     width: 100%;
+    padding-top: 100px;
     /*min-height: 200px;*/
     /*background-color: blue;*/
 }
 
 .Footer {
-    float: left;
     text-align: center;
     width: 100%;
     height: 50px;
