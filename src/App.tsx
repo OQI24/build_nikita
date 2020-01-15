@@ -11,7 +11,6 @@ const style = require('./App.css');
 
 function App() {
     return (
-        <BrowserRouter>
             <div className={'App'}>
                 <Header/>
                 <div className={"app-wrapper"}>
@@ -23,7 +22,6 @@ function App() {
                     <span className={"signature"}>by Sukhachev</span>
                 </footer>
             </div>
-        </BrowserRouter>
     );
 }
 

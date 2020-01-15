@@ -1,4 +1,5 @@
 .GalleryObjects{
+    position: relative;
     height: auto;
     text-align: center;
     background-color: lightgray;

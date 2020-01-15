@@ -6,15 +6,26 @@
     background-image: url("https://image.freepik.com/free-vector/black-white-city-skyline_23-2147504627.jpg");
 }
 
+.Video{
+    position: absolute;
+    object-position: center;
+    top: 100px;
+    width: 100%;
+    opacity: .7;
+
+}
+
 .text{
     display: block;
+    position: relative;
     margin: 0 auto;
     width: 60%;
     border-radius: 8px;
-    background-color: rgba(0,0,0,.7);
+    background-color: rgba(0,0,0,.9);
     text-align: center;
     color: cornsilk;
     padding: 20px;
+    z-index: 1;
 }
 
 h4{

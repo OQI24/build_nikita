@@ -20,9 +20,10 @@ const GalleryObjects: React.FC<Props> = ({props, tottalCount}) => {
 
     return (
         <div className={style.GalleryObjects}>
-            {Objects(tottalCount).map((e)=> {
+            {objArray.map((e,i)=> {
                 return(
                 <SingleObject
+                    id={i}
                     tittle={e.tittle}
                     subTittle={e.subTittle}
                     address={e.address}

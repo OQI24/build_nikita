@@ -11,6 +11,11 @@
     padding: 20px;
     width: 60px;
     float: left;
+    transition: .4s;
+}
+.logo:hover{
+    transform: scale(1.1);
+    transition: .4s;
 }
 .links{
     margin-left: 10%;
@@ -25,4 +30,10 @@
     margin-left: 35px;
     text-decoration: none;
     color: lightblue;
+    transition: 0.2s;
+}
+
+.links a:hover {
+    color: white;
+    transition: 0.3s;
 }

@@ -1,15 +1,18 @@
 import * as React from 'react';
+// @ts-ignore
+import { BrowserHistory, link} from 'react-router-dom';
 
 const style = require('./style.module.css');
 
 type Props = {
+    id: number;
     tittle?: any;
     subTittle?: any;
     address?: any;
     note?: any;
 };
 
-const SingleObject: React.FC<Props> = ({tittle, subTittle, address, note}) => {
+const SingleObject: React.FC<Props> = ({tittle, subTittle, address, note, id}) => {
     return (
         <div className={style.SingleObject}>
             <h3 className={style.tittle}>{tittle}</h3>

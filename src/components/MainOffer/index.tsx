@@ -9,6 +9,15 @@ type Props = {
 const MainOffer: React.FC<Props> = ({props}) => {
     return (
         <div className={style.MainOffer}>
+            {/*<div >*/}
+            {/*    <video*/}
+            {/*        src="https://clck.ru/LsuGZ"*/}
+            {/*        autoPlay={true}*/}
+            {/*        loop={true}*/}
+            {/*        preload={'auto'}*/}
+            {/*        muted={true}*/}
+            {/*    />*/}
+            {/*</div>*/}
             <div className={style.text}>
                 <h1> Настало время <span style={{color: 'lightpink'}}>выбрать</span>.. </h1>
                 <h4>„Инвестирование в недвижимость через бизнес дает сразу четыре дохода: рентный доход, амортизация, повышение стоимости и налоговые преимущества.“</h4>
