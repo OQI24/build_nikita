@@ -5,3 +5,8 @@
     background-color: lightgray;
     padding: 10px;
 }
+
+.Pagination>li.rc-pagination-item-active{
+    background-color: #243238 !important;
+    border: #243238 !important;
+}

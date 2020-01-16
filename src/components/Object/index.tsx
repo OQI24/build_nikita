@@ -6,15 +6,16 @@ const style = require('./style.module.css');
 
 type Props = {
     id: number;
+    current: number;
     tittle?: any;
     subTittle?: any;
     address?: any;
     note?: any;
 };
 
-const SingleObject: React.FC<Props> = ({tittle, subTittle, address, note, id}) => {
+const SingleObject: React.FC<Props> = ({tittle, subTittle, address, note, id, current}) => {
     return (
-        <div className={style.SingleObject}>
+        <div className={style.SingleObject} title={`${(current-1)*9+id+1}`}>
             <h3 className={style.tittle}>{tittle}</h3>
             <h5 className={style.subTittle}>{'Район ' + address}</h5>
             <h5 className={style.subTittle}>{subTittle}</h5>
