@@ -10,7 +10,7 @@ type Props = {
 const Objects: React.FC<Props> = ({props}) => {
     return (
         <div className={style.Objects}>
-            <GalleryObjects tottalCount={150}/>
+            <GalleryObjects tottalCount={689}/>
         </div>
     );
 };
