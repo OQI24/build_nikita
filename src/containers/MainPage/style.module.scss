@@ -1,0 +1,12 @@
+.MainPage {
+    width: 100%;
+    background-size: auto;
+}
+
+.simpleGallery{
+    background-color: lightgray;
+    & Button {
+        width: 100%;
+        border: none;
+    }
+}
